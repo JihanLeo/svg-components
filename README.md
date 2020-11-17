@@ -2,7 +2,7 @@
 
 #### 封装一个基于webpack + vue的svg-icon组件
 
-- **添加svg-sprite-loader**
+- 添加svg-sprite-loader
 
   - yarn add svg-sprite-loader -D
 
