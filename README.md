@@ -1,6 +1,6 @@
 # svg-components
 
-#### 封装一个基于webpack + vue的svg-icon组件
+#### 封装一个基于webpack + vue2的svg-icon组件
 
 - 添加svg-sprite-loader
 
